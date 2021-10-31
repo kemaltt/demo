@@ -1,3 +1,0 @@
-consol.log(Hallo Welt)
-
-
